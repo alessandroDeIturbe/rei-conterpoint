@@ -1,1 +1,4 @@
-.DS_Store
+resources/settings.json
+resources/__pycache__
+__pycache__
+.vscode
