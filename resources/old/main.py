@@ -1,7 +1,7 @@
 import json
 import os
-import resources.system as system
 import shutil
+import resources.settings
 from music21 import *
 import tkinter as tk
 from tkinter import filedialog
